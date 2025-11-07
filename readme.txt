@@ -1,1 +1,3 @@
-Meu primeiro projeto com Git
+Meu primeito commit foi um sucesso!
+Agora estou praticando o segundo.
+
